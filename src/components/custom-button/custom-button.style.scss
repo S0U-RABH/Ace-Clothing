@@ -4,7 +4,7 @@
   height: 50px;
   letter-spacing: 0.5px;
   line-height: 50px;
-  padding: 0 15px 0 15px;
+  padding: 0 13px 0 13px;
   font-size: 15px;
   background-color: black;
   color: white;
@@ -30,7 +30,6 @@
       background-color: #357ae8;
       border: none;
     }
-
   }
 
   &.inverted {
@@ -44,5 +43,4 @@
       border: none;
     }
   }
-
 }
