@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
- <a href="#-how-to-contribute-frontend">How To Contribute</a>&nbsp;|&nbsp;
+ <a href="#-how-to-contribute">How To Contribute</a>&nbsp;|&nbsp;
 </p>
 
 ## 👨🏻‍💻 About the project
