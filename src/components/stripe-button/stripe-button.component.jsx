@@ -8,6 +8,7 @@ export const StripeCheckoutButton = ({ price }) => {
     const publishableKey = 'pk_test_51KmNTiSHZQT3xD5Ok2rLKpKD3qOffNPHBkGfojMNn73ueqKdQ5bKFFF0Hcxo4a7NrJvD3ZqoNgq1VrnQZwUQAehJ00jhCVSDvJ'
 
     const onToken = token => {
+        // console.log(token)
         alert(`₹${price} Payment Successful`)
     }
 

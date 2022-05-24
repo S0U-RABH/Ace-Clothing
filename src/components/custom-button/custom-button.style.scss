@@ -15,11 +15,13 @@
   cursor: pointer;
   display: flex;
   justify-content: center;
+  border-radius: .5rem;
 
   &:hover {
     background-color: white;
     color: black;
     border: 1px solid black;
+    box-shadow: 1px 1px 15px blue;
   }
 
   &.google-sign-in {
@@ -29,6 +31,8 @@
     &:hover {
       background-color: #357ae8;
       border: none;
+      box-shadow: 1px 1px 15px blue;
+
     }
   }
 
@@ -41,6 +45,8 @@
       background-color: black;
       color: white;
       border: none;
+      box-shadow: 1px 1px 15px blue;
+
     }
   }
 }
